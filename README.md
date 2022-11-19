@@ -1,4 +1,4 @@
-# Location_Data_From_Google_KML
+# Reading Location Data From Google KML
 Reads KML file from Google MyMaps ad outputs a dictionary with latitude, longitude data as numpy array
 
 # Files
